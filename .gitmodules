@@ -21,7 +21,7 @@
 
 [submodule ".github/actions/pre-commmit-action"]
 	path = .github/actions/pre-commmit-action
-	url = git@github.com:pre-commit/action.git
+	url = https://github.com:pre-commit/action.git
 [submodule ".github/actions/JamesIves-github-pages-deploy-action"]
 	path = .github/actions/JamesIves-github-pages-deploy-action
-	url = git@github.com:JamesIves/github-pages-deploy-action.git
+	url = https://github.com:JamesIves/github-pages-deploy-action.git
